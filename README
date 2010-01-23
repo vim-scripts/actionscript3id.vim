@@ -1,0 +1,4 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2941
+
+All identifiers are mined from the documentations of flex 4 sdk.
+There are 8 groups: Flex Interfaces, Flex Classes, Flex Constants, Flex Functions and those only available in AIR runtime.
